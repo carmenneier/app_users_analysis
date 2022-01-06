@@ -1,2 +1,2 @@
 # app_users_analysis
-Unsupervised analysis using mobile app user data. 
+Unsupervised machine learning analysis using mobile app user data. 
